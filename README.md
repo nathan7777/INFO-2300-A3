@@ -1,5 +1,8 @@
 # Nathan Caldwell Assignment 3
 This is the README which came with the project given to us to use for this assignment. To use the app, go to the heroku page found <a href="https://dashboard.heroku.com/apps/nathan-caldwell-info2300">here</a>, and click the "open app" button
+#Alternate Deployment
+--Note Node and NPM must be installed
+Download the app, and open a console window in its root folder (es6-twilio-chatbot). try running _npm start_. If the app does not start, run _npm install node_, then _npm start_ once the install has completed. You should get a message saying the app is running on one of your localhost ports. Open your browser of choice (preferably google), and type _localhost:3006_. If the console gives you a different port number, use that one instead of 3006. The app should appear in your browser window.
 
 # <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
 
