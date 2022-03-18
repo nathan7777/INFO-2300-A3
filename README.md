@@ -1,3 +1,6 @@
+# Nathan Caldwell Assignment 3
+This is the README which came with the project given to us to use for this assignment. To use the app, go to the heroku page found <a href="https://dashboard.heroku.com/apps/nathan-caldwell-info2300">here</a>, and click the "open app" button
+
 # <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
 
 I got the user interface for the web from a student of mine, Pat Wilken.
